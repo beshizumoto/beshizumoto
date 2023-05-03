@@ -52,15 +52,15 @@ int main() {
 ![](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visualstudio&logoColor=white)
 
 ### 👨‍💻 Programming languages
-![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
 
 ### 🧰 Frameworks and libraries
-![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/Discord.js-512BD4.svg?logo=Discord&logoColor=white)
-![](https://img.shields.io/badge/Django-0C9D58.svg?logo=Django&logoColor=white)
+![](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white)
+![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
+![](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+
 
 
 ### 🗄️ Databases 
@@ -75,8 +75,5 @@ int main() {
 ![](https://img.shields.io/badge/Stack%20Overflow-F58025?logo=stackoverflow&logoColor=white)
 ![](https://img.shields.io/badge/AnyDesk-EF443B?logo=AnyDesk&logoColor=white)
 ![](https://img.shields.io/badge/WireGuard-88171A?logo=WireGuard&logoColor=white)
-![](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white)
-![](https://img.shields.io/badge/PyPI-3775A9?logo=PyPI&logoColor=white)
+![](https://img.shields.io/badge/vcpkg-00427F?logo=vcpkg&logoColor=white)
 
-## Credits 
-- [JMiki](https://github.com/JM1k1)
