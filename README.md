@@ -53,16 +53,9 @@ int main() {
 
 ### 👨‍💻 Programming languages
 ![](https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
+![](https://img.shields.io/badge/C%2B%2B-00599C?&logo=c%2B%2B&logoColor=white)
 ![](https://img.shields.io/badge/PowerShell-5391FE.svg?logo=powershell&logoColor=white)
 ![](https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white)
-
-### 🏗️ Web Design Languages
-![](https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white)
-
 
 ### 🧰 Frameworks and libraries
 ![](https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white)
@@ -75,9 +68,6 @@ int main() {
 ![](https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-003B57.svg?logo=SQLite&logoColor=white)
 
-### ☁️ Cloud hosting
-![](https://img.shields.io/badge/DigitalOcean-0080FF.svg?logo=DigitalOcean&logoColor=white)
-![](https://img.shields.io/badge/RaspberryPi-A22846.svg?logo=RaspberryPi&logoColor=white)
 
 ### ⚙️ Tools
 ![](https://img.shields.io/badge/Terminal-4D4D4D.svg?logo=WindowsTerminal&logoColor=white)
