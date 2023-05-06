@@ -17,7 +17,7 @@ public:
         name("BESHIZUMOTO"),
         role("C++ Dev"),
         languages({"C++"}),
-        languages_learning({"ASM", "C"}),
+        languages_learning({"ASM", "PYTHON"}),
         languages_spoken({"fr_FR", "en_US", "ar_AR"})
     {}
 
