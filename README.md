@@ -2,7 +2,7 @@
 
 #
 <p align=center>
-<a href="https://discord.com/users/833293196665815062">
+<a href="">
 </a>
   </p>
 <p align=center>
@@ -59,7 +59,6 @@ int main() {
 ### 🧰 Frameworks and libraries
 ![](https://img.shields.io/badge/Boost-000000?style=for-the-badge&logo=boost&logoColor=white)
 ![](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white)
-![](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
 
 
 
